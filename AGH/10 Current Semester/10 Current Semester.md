@@ -2,6 +2,8 @@
 - **[[Alge]]**
 - **[[AnaM]]**
 - **Fizy**
+	- **fizyka_CWL**
+
 - **Info**
 - **Prob**
 
