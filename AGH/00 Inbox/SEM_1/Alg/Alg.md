@@ -15,6 +15,5 @@
 			- [[AlgCWA.4]]
 			- [[Karka Macierze main]]
 - **W**
-	- [[Przestrzenie i podprzestrzenie wektorowe]]
 
 %% End Waypoint %%
