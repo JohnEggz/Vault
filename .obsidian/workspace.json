@@ -21,26 +21,24 @@
               "icon": "lucide-file",
               "title": "k4"
             }
-          }
-        ]
-      },
-      {
-        "id": "8356b6fef60abfa6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e8b29166765a2dc5",
+            "id": "9863e155d1349924",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AGH/10 Current Semester/Alge/_attachments_Alge/4_Alge_lin_niez.pdf"
+                "file": "AGH/00 Inbox/Untitled 3.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "4_Alge_lin_niez"
+              "icon": "lucide-file",
+              "title": "Untitled 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +203,10 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "a8d7cceb471250a8",
+  "active": "9863e155d1349924",
   "lastOpenFiles": [
+    "AGH/10 Current Semester/Alge/k4/k4.md",
+    "AGH/00 Inbox/Untitled 3.md",
     "AGH/10 Current Semester/Fizy/fizyka_CWL/K-9-AT.pdf",
     "AGH/10 Current Semester/Fizy/fizyka_CWL/K-8-Ind_v2.pdf",
     "AGH/10 Current Semester/Fizy/fizyka_CWL/K-7-Spr.pdf",
@@ -216,9 +217,7 @@
     "AGH/10 Current Semester/Fizy/fizyka_CWL/K-2-B.pdf",
     "AGH/10 Current Semester/Fizy/fizyka_CWL/K-12-Lepk.pdf",
     "AGH/10 Current Semester/Fizy/fizyka_CWL/K-11-Dyfr.pdf",
-    "AGH/10 Current Semester/Fizy/fizyka_CWL/K-10-RLC.pdf",
     "AGH/10 Current Semester/Alge/k4/Alge_k4_z10b.md",
-    "AGH/10 Current Semester/Alge/k4/k4.md",
     "AGH/10 Current Semester/Alge/k4/Alge_k4_z8.md",
     "AGH/10 Current Semester/Alge/k4/Alge_k4_z13.md",
     "AGH/10 Current Semester/Alge/k4/Alge_k4_z12.md",
