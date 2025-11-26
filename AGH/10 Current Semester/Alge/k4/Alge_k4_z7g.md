@@ -10,4 +10,4 @@ created: 2025-11-26
 
 ![[Alge_k4_z7]]
 
-W = {(x, y, z) : 2x − y = z + x}, V = R3
+W = {(x, y, z) : 2x − y = z + x}, V = R^3

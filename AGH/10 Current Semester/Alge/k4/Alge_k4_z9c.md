@@ -10,4 +10,4 @@ created: 2025-11-26
 
 ![[Alge_k4_z9]]
 
-W = {(x, y, z) ∈ R3 : x − z = z − y = x − y},
+W = {(x, y, z) ∈ R^3 : x − z = z − y = x − y},

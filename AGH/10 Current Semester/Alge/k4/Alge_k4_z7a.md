@@ -10,4 +10,4 @@ created: 2025-11-26
 
 ![[Alge_k4_z7]]
 
-W = {(x, y, z) ∈ R3 : x + y = y + z = 0}, V = R3 
+W = {(x, y, z) ∈ R^3 : x + y = y + z = 0}, V = R^3 

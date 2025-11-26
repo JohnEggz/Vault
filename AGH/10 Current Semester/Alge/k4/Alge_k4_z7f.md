@@ -10,4 +10,4 @@ created: 2025-11-26
 
 ![[Alge_k4_z7]]
 
-W = {(x, y) : x = 4y}, V = R2
+W = {(x, y) : x = 4y}, V = R^2
