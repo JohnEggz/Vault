@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **Alge**
+- **[[Alge]]**
 - **[[AnaM]]**
 - **Fizy**
 - **Info**

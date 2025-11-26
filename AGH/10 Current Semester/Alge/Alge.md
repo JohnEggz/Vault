@@ -1,5 +1,4 @@
 %% Begin Waypoint %%
-- **[[AnaM_w]]**
-- **[[k4]]**
+
 
 %% End Waypoint %%

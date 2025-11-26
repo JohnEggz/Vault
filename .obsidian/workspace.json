@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.1.c.md",
-                "mode": "preview",
-                "source": true,
+                "file": "AGH/10 Current Semester/Alge/Alge.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AlgCWA.1.c"
+              "title": "Alge"
             }
           }
         ]
@@ -208,8 +208,22 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "17213e44153379a6",
+  "active": "c6b8c2948c23cba8",
   "lastOpenFiles": [
+    "AGH/10 Current Semester/AnaM/AnaM.md",
+    "AGH/10 Current Semester/Alge/Alge.md",
+    "AGH/10 Current Semester/AnaM/AnaM_w/AnaM_w.md",
+    "AGH/10 Current Semester/10 Current Semester.md",
+    "AGH/10 Current Semester/AnaM/k4/k4.md",
+    "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.1.c.md",
+    "AGH/10 Current Semester/AnaM/AnaM_w",
+    "AGH/10 Current Semester/AnaM/AnaM_2",
+    "AGH/10 Current Semester/Alge/_attachments_Alge/5_Alge_odwz_lin.pdf",
+    "AGH/10 Current Semester/Alge/_attachments_Alge/3_Alge_ukl_rown.pdf",
+    "AGH/10 Current Semester/Alge/_attachments_Alge/2_Alge_macierze.pdf",
+    "AGH/10 Current Semester/Alge/_attachments_Alge/6_Alge_macierze_odwz_lin.pdf",
+    "AGH/10 Current Semester/Alge/_attachments_Alge/4_Alge_lin_niez.pdf",
+    "AGH/10 Current Semester/Alge/_attachments_Alge/1_Alge_zespolone.pdf",
     "AGH/10 Current Semester/AnaM/w",
     "AGH/10 Current Semester/Alge/_attachments_Alge",
     "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.1.b.md",
@@ -218,14 +232,10 @@
     "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.4.a.md",
     "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.3.md",
     "AGH/00 Inbox/SEM_1/Alg/W/Przestrzenie i podprzestrzenie wektorowe.md",
-    "AGH/10 Current Semester/10 Current Semester.md",
-    "AGH/10 Current Semester/AnaM/_attachments_AnaM/4_AnaM_zast_poch.pdf",
     "Templates/Templates.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2c.md",
-    "AGH/10 Current Semester/AnaM/k4/k4.md",
     "AGH/00 Inbox/Untitled 1.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z1.md",
-    "AGH/10 Current Semester/AnaM/AnaM.md",
     "AGH/10 Current Semester/AnaM/Tematy z Analizy Final.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2b.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2a.md",
@@ -236,17 +246,7 @@
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z9f.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z9e.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z9d.md",
-    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z4a.md",
-    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z4.md",
-    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2",
     "AGH/00 Inbox/SEM_1/Ana/CWA/k4/Pasted image 20251119133105.png",
-    "AGH/10 Current Semester/AnaM/k4",
-    "AGH/10 Current Semester/AnaM/_attachments_AnaM/1_AnaM_powt.pdf",
-    "AGH/10 Current Semester/AnaM/_attachments_AnaM/2_AnaM_ciagi.pdf",
-    "AGH/10 Current Semester/AnaM/_attachments_AnaM/3_AnaM_poch.pdf",
-    "AGH/10 Current Semester/AnaM/_attachments_AnaM",
-    "attachments/2_ciagi.pdf",
-    "attachments/3_gr_i_poch-2.pdf",
     "attachments/Pasted image 20251125213547.png",
     "Pasted image 20251125174750.png",
     "AGH/00 Inbox/SEM_1/Ana_1/Misc/Pasted image 20251107081143.png",
