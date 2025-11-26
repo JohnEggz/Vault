@@ -10,5 +10,7 @@ created: 2025-11-26
 
 ![[Alge_k4_z2]]
 
-
-## Solution
+b)
+$$
+\{ [], \quad [], \quad [] \} \quad \text{w } \mathbb{R}^{3}
+$$

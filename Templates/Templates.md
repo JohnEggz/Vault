@@ -8,6 +8,7 @@
 - [[Nav_Prev]]
 - [[New Exercise]]
 - [[Spawner]]
+- [[Toggle_Conceal]]
 - [[View_ForceLive]]
 - [[View_ForceRead]]
 - [[View_ForceSource]]

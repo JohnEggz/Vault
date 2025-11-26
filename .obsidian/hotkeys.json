@@ -2,19 +2,17 @@
   "obsidian-latex-suite:latex-suite-disable-all-features": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
-      "key": "L"
+      "key": "D"
     }
   ],
   "obsidian-latex-suite:latex-suite-enable-all-features": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
-      "key": "L"
+      "key": "E"
     }
   ],
   "vim-toggle:toggle-vim": [
@@ -247,6 +245,15 @@
         "Shift"
       ],
       "key": "C"
+    }
+  ],
+  "templater-obsidian:insert-templater": [],
+  "templater-obsidian:Templates/Toggle_Conceal.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
     }
   ]
 }
