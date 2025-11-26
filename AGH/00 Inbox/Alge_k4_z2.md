@@ -1,0 +1,1 @@
+# 2. Zbadaj dla jakiego parametru p poniższy zbiór wektorów jest zbiorem wektorów liniowo niezależnych:

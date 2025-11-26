@@ -34,14 +34,6 @@
     }
   ],
   "markdown:toggle-preview": [],
-  "waypoint:go_to_parent_waypoint": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "["
-    }
-  ],
   "templater-obsidian:Templates/Spawner.md": [
     {
       "modifiers": [
