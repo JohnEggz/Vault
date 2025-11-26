@@ -1,0 +1,11 @@
+$$ \textcolor{lime}{\lim_{ u \to 0 } \frac{e^{u}-1}{u} = 1} $$
+$$ \textcolor{lime}{\lim_{ u \to 0 } \frac{\sin u}{u} = 1} $$
+$$ \textcolor{lime}{\lim_{ u \to 0 } \frac{\arctan u}{u} = 1} $$
+$$ \textcolor{lime}{\lim_{ u \to 0 } (1+u)^{\frac{1}{u}} = e} $$
+$$ \textcolor{lime}{\lim_{ u \to \infty } \left ( 1+\frac{1}{u} \right)^{u} = e} $$
+$$ \textcolor{lime}{\lim_{ u \to 0 } \frac{\tan u}{u} = 1} $$
+$$ \textcolor{lime}{\lim_{ u \to 0 } \frac{\arcsin u}{u} = 1} $$
+$$ \textcolor{lime}{\lim_{ u \to 0 } \frac{\ln(1 + u)}{u} = 1} $$
+$$ \textcolor{lime}{\lim_{ u \to 0 } \frac{a^u - 1}{u} = \ln a} $$
+$$ \textcolor{lime}{\lim_{ u \to 0 } \frac{1 - \cos u}{u^2} = \frac{1}{2}} $$
+$$ \textcolor{lime}{\lim_{ u \to \infty } \left ( 1+\frac{k}{u} \right)^{u} = e^k} $$

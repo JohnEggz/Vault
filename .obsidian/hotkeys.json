@@ -1,0 +1,260 @@
+{
+  "obsidian-latex-suite:latex-suite-disable-all-features": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-latex-suite:latex-suite-enable-all-features": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "vim-toggle:toggle-vim": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": [],
+  "waypoint:go_to_parent_waypoint": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "templater-obsidian:Templates/Spawner.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "workspace:edit-file-title": [],
+  "templater-obsidian:Templates/View_ForceRead.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:Templates/View_ForceLive.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "templater-obsidian:Templates/View_ForceSource.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "obsidian-focus-mode:toggle-focus-mode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-focus-mode:toggle-super-focus-mode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ],
+  "easy-bake:bake-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "enhanced-copy:copy-all-in-markdown": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:Templates/Copy_Inlined.md.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:Templates/Nav_Down.md.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "templater-obsidian:Templates/Nav_Next.md.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "templater-obsidian:Templates/Nav_Prev.md.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ],
+  "templater-obsidian:Templates/Nav_Up.md.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:Templates/Nav_Child.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "templater-obsidian:Templates/Nav_Next.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "templater-obsidian:Templates/Nav_Parent.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:Templates/Nav_Prev.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ],
+  "templater-obsidian:Templates/Copy_Inlined.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:Templates/Force_Focus.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
+  ],
+  "editor:focus-top": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:focus-bottom": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:insert-link": [],
+  "editor:open-search-replace": [],
+  "editor:toggle-checklist-status": [],
+  "templater-obsidian:Templates/Copy_Flattened.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
+}

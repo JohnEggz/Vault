@@ -1,0 +1,48 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Templates/Spawner.md",
+    "Templates/View_ForceLive.md",
+    "Templates/View_ForceSource.md",
+    "Templates/View_ForceRead.md",
+    "Templates/Copy_Inlined.md",
+    "Templates/Nav_Next.md",
+    "Templates/Nav_Prev.md",
+    "Templates/Nav_Child.md",
+    "Templates/Nav_Parent.md",
+    "Templates/Force_Focus.md",
+    "Templates/Copy_Flattened.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

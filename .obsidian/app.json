@@ -1,0 +1,21 @@
+{
+  "vimMode": true,
+  "autoPairBrackets": false,
+  "promptDelete": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "propertiesInDocument": "hidden",
+  "showLineNumber": true,
+  "autoPairMarkdown": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "AGH/00 Inbox",
+  "attachmentFolderPath": "attachments",
+  "defaultViewMode": "preview",
+  "livePreview": false
+}

@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "cdacbfaec5f23a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "551d040d87a5543f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b8c2948c23cba8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AGH/10 Current Semester/AnaM/_attachments_AnaM/4_AnaM_zast_poch.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4_AnaM_zast_poch"
+            }
+          }
+        ]
+      },
+      {
+        "id": "be3d17411263d061",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ebd1a9a9c6947df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AGH/10 Current Semester/10 Current Semester.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "10 Current Semester"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c842ad3bbd6d9c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf093628e9d80385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17213e44153379a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1115867951659d54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a073b816fb2ecbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82040566da6880a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed18e734660b2f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "010e79e0685f548e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AGH/10 Current Semester/10 Current Semester.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 10 Current Semester"
+            }
+          },
+          {
+            "id": "660e7fc89af12422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z4a.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AnaM_k4_z4a"
+            }
+          },
+          {
+            "id": "bdc6a1e06ee4350e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e33fdc9ffa3e999",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AGH/10 Current Semester/AnaM/AnaM.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AnaM"
+            }
+          },
+          {
+            "id": "a8d7cceb471250a8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "vim-toggle:Toggle Vim Mode": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+    }
+  },
+  "active": "c6b8c2948c23cba8",
+  "lastOpenFiles": [
+    "Templates/Templates.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2c.md",
+    "AGH/10 Current Semester/AnaM/k4/k4.md",
+    "AGH/00 Inbox/Untitled 1.md",
+    "AGH/10 Current Semester/AnaM/_attachments_AnaM/4_AnaM_zast_poch.pdf",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z1.md",
+    "AGH/10 Current Semester/AnaM/AnaM.md",
+    "AGH/10 Current Semester/AnaM/Tematy z Analizy Final.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2b.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2a.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2d.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2e.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z3.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z9f.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z9e.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z9d.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z4a.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z4.md",
+    "AGH/10 Current Semester/10 Current Semester.md",
+    "Templates/Nav_Next.md",
+    "AGH/00 Inbox/SEM_1/SEM_1.md",
+    "AGH/00 Inbox/SEM_1/Ana/Ana.md",
+    "AGH/00 Inbox/SEM_1/Ana/CWA/k1/k1.md",
+    "AGH/00 Inbox/SEM_1/Ana/W/W.md",
+    "AGH/00 Inbox/SEM_1/Ana/W/lekcje/1763465085-PIKJ.md",
+    "Templates/Copy_Flattened.md",
+    "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2",
+    "AGH/00 Inbox/SEM_1/Ana/CWA/k4/Pasted image 20251119133105.png",
+    "AGH/10 Current Semester/AnaM/k4",
+    "AGH/10 Current Semester/AnaM/_attachments_AnaM/1_AnaM_powt.pdf",
+    "AGH/10 Current Semester/AnaM/_attachments_AnaM/2_AnaM_ciagi.pdf",
+    "AGH/10 Current Semester/AnaM/_attachments_AnaM/3_AnaM_poch.pdf",
+    "AGH/10 Current Semester/AnaM/_attachments_AnaM",
+    "attachments/2_ciagi.pdf",
+    "attachments/3_gr_i_poch-2.pdf",
+    "attachments/4_zast_poch-1.pdf",
+    "attachments/Pasted image 20251125213547.png",
+    "Pasted image 20251125174750.png",
+    "AGH/00 Inbox/SEM_1/Ana_1/Misc/Pasted image 20251107081143.png",
+    "AGH/00 Inbox/SEM_1/Ana_1/CWA/Kartka_4/Pasted image 20251119133105.png",
+    "AGH/00 Inbox/SEM_1/Ana_1/CWA/Kartka_4/Pasted image 20251119103335.png",
+    "AGH/00 Inbox/SEM_1/Ana_1/CWA/Kartka_4/Pasted image 20251119102028.png",
+    "AGH/00 Inbox/SEM_1/Ana/CWA/k4/Pasted image 20251119103335.png",
+    "AGH/00 Inbox/SEM_1/Ana/CWA/k4/Pasted image 20251119102028.png",
+    "AGH/00 Inbox/SEM_1/Inf/CWP/Misc/Pasted image 20251117093258.png"
+  ]
+}
