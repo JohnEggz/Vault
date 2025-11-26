@@ -30,5 +30,3 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 # Exercise <% exercise %>
 
 <% parentLink %>
-
-## Solution
