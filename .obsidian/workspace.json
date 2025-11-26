@@ -11,12 +11,15 @@
             "id": "c6b8c2948c23cba8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AGH/10 Current Semester/AnaM/_attachments_AnaM/4_AnaM_zast_poch.pdf"
+                "file": "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.1.c.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "4_AnaM_zast_poch"
+              "icon": "lucide-file",
+              "title": "AlgCWA.1.c"
             }
           }
         ]
@@ -205,13 +208,22 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "c6b8c2948c23cba8",
+  "active": "17213e44153379a6",
   "lastOpenFiles": [
+    "AGH/10 Current Semester/AnaM/w",
+    "AGH/10 Current Semester/Alge/_attachments_Alge",
+    "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.1.b.md",
+    "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.1.a.md",
+    "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.1.md",
+    "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.4.a.md",
+    "AGH/00 Inbox/SEM_1/Alg/CWA/k/Kartka Macierze/AlgCWA.3.md",
+    "AGH/00 Inbox/SEM_1/Alg/W/Przestrzenie i podprzestrzenie wektorowe.md",
+    "AGH/10 Current Semester/10 Current Semester.md",
+    "AGH/10 Current Semester/AnaM/_attachments_AnaM/4_AnaM_zast_poch.pdf",
     "Templates/Templates.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2c.md",
     "AGH/10 Current Semester/AnaM/k4/k4.md",
     "AGH/00 Inbox/Untitled 1.md",
-    "AGH/10 Current Semester/AnaM/_attachments_AnaM/4_AnaM_zast_poch.pdf",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z1.md",
     "AGH/10 Current Semester/AnaM/AnaM.md",
     "AGH/10 Current Semester/AnaM/Tematy z Analizy Final.md",
@@ -226,14 +238,6 @@
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z9d.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z4a.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z4.md",
-    "AGH/10 Current Semester/10 Current Semester.md",
-    "Templates/Nav_Next.md",
-    "AGH/00 Inbox/SEM_1/SEM_1.md",
-    "AGH/00 Inbox/SEM_1/Ana/Ana.md",
-    "AGH/00 Inbox/SEM_1/Ana/CWA/k1/k1.md",
-    "AGH/00 Inbox/SEM_1/Ana/W/W.md",
-    "AGH/00 Inbox/SEM_1/Ana/W/lekcje/1763465085-PIKJ.md",
-    "Templates/Copy_Flattened.md",
     "AGH/10 Current Semester/AnaM/k4/AnaM_k4_z2",
     "AGH/00 Inbox/SEM_1/Ana/CWA/k4/Pasted image 20251119133105.png",
     "AGH/10 Current Semester/AnaM/k4",
@@ -243,7 +247,6 @@
     "AGH/10 Current Semester/AnaM/_attachments_AnaM",
     "attachments/2_ciagi.pdf",
     "attachments/3_gr_i_poch-2.pdf",
-    "attachments/4_zast_poch-1.pdf",
     "attachments/Pasted image 20251125213547.png",
     "Pasted image 20251125174750.png",
     "AGH/00 Inbox/SEM_1/Ana_1/Misc/Pasted image 20251107081143.png",
