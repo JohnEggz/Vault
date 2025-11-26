@@ -12,5 +12,5 @@ created: 2025-11-26
 
 a)
 $$
-\{ [], \quad [], \quad [] \} \quad \text{w } \mathbb{R}^{3}
+\{ [3,p,3,p], \quad [1,1,1,1], \quad [p,p,-1,2] \} \quad \text{w } \mathbb{R}^{4}
 $$

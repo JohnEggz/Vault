@@ -12,5 +12,5 @@ created: 2025-11-26
 
 b)
 $$
-\{ [], \quad [], \quad [] \} \quad \text{w } \mathbb{R}^{3}
+\{ [1,-p,p^{2}], \quad [1,p^{2},p^{4}], \quad [1,-p^{3}, p^{6}] \} \quad \text{w } \mathbb{R}^{3}
 $$

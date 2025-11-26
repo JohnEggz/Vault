@@ -8,6 +8,4 @@ created: 2025-11-26
 
 # Exercise 4
 
-
-
-## Solution
+Sprawdź, czy wektory v1 = [1, 0], v2 = [−5, 0] generują przestrzeń R^2. 

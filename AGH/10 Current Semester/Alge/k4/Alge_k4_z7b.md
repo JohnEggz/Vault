@@ -10,5 +10,4 @@ created: 2025-11-26
 
 ![[Alge_k4_z7]]
 
-
-## Solution
+W = {(x, y, z, t) ∈ R4 : x + y = z − y}, V = R4 

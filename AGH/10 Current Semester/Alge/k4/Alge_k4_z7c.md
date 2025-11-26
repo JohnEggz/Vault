@@ -10,5 +10,4 @@ created: 2025-11-26
 
 ![[Alge_k4_z7]]
 
-
-## Solution
+W = {(x, y, z) ∈ R3 : x + y + z = 1}, V = R3

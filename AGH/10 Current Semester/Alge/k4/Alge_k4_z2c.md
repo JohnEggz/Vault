@@ -12,5 +12,5 @@ created: 2025-11-26
 
 c)
 $$
-\{ [], \quad [], \quad [] \} \quad \text{w } \mathbb{R}^{3}
+\{ [0,2,1], \quad [2,3,1-p], \quad [0,6,3] \} \quad \text{w } \mathbb{R}^{3}
 $$

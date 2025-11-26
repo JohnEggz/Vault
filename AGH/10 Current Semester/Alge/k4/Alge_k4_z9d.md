@@ -10,5 +10,4 @@ created: 2025-11-26
 
 ![[Alge_k4_z9]]
 
-
-## Solution
+W = {(x, y, z, t) = (a + b, 2a, b − a, 3b), a, b ∈ R}

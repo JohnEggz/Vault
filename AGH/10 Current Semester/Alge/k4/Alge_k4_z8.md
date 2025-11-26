@@ -8,6 +8,4 @@ created: 2025-11-26
 
 # Exercise 8
 
-
-
-## Solution
+Znajdź bazy i wymiary wszystkich podprzestrzeni z poprzedniego zadania
