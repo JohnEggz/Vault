@@ -1,9 +1,7 @@
 %% Begin Waypoint %%
 - **[[Alge]]**
 - **[[AnaM]]**
-- **Fizy**
-	- **fizyka_CWL**
-
+- **[[Fizy]]**
 - **Info**
 - **Prob**
 
