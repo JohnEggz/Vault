@@ -11,10 +11,15 @@
             "id": "98386de00cd198c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AGH/10 Current Semester/AnaM/AnaM_w/AnaM_w.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AnaM_w"
             }
           }
         ]
@@ -74,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82040566da6880a2",
@@ -185,9 +189,12 @@
   },
   "active": "98386de00cd198c1",
   "lastOpenFiles": [
+    "AGH/00 Inbox/SEM_1/Ana/W/lekcje/1763489679-FNEO.md",
+    "AGH/10 Current Semester/AnaM/AnaM_w/AnaM_w.md",
+    "AGH/10 Current Semester/AnaM/AnaM.md",
+    "AGH/10 Current Semester/10 Current Semester.md",
     "AGH/10 Current Semester/Fizy/z7/Fizy_z7.md",
     "AGH/10 Current Semester/Fizy/Fizy.md",
-    "AGH/10 Current Semester/10 Current Semester.md",
     "AGH/10 Current Semester/Fizy/z7",
     "AGH/10 Current Semester/Alge/Alge.md",
     "AGH/10 Current Semester/Alge/Alge_w/Alge_w.md",
@@ -209,9 +216,6 @@
     "AGH/10 Current Semester/Alge/k4/Alge_k4_z8.md",
     "AGH/10 Current Semester/Alge/k4/Alge_k4_z7g.md",
     "AGH/10 Current Semester/Alge/k4/Alge_k4_z7f.md",
-    "AGH/10 Current Semester/Alge/k4/Alge_k4_z7e.md",
-    "AGH/10 Current Semester/Alge/k4/Alge_k4_z7d.md",
-    "AGH/10 Current Semester/Alge/k4/Alge_k4_z7c.md",
     "AGH/10 Current Semester/Alge/_attachments_Alge/4_Alge_lin_niez.pdf",
     "AGH/10 Current Semester/Fizy/fizyka_CWL/K-9-AT.pdf",
     "AGH/10 Current Semester/Fizy/fizyka_CWL/K-8-Ind_v2.pdf",
